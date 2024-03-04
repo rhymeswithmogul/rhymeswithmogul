@@ -14,7 +14,7 @@ Living in Connecticut, working in California, and helping people all over the wo
 
 ## Follow Me
 [![Blog](https://img.shields.io/badge/Blog-303030?style=for-the-badge&logo=rss)](https://colincogle.name/blog/)
-[![Mastodon](https://img.shields.io/mastodon/follow/000674847?style=for-the-badge&label=Mastodon&logo=mastodon&logoColor=fff&labelColor=6364ff)](https://mastodon.social/@colincogle)
+[![Mastodon](https://img.shields.io/mastodon/follow/000674847?style=for-the-badge&label=Mastodon&logo=mastodon&logoColor=fff&labelColor=6364ff)](https://mastodon.colincogle.name/@colin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colincogle)
 [![Keyoxide](https://img.shields.io/badge/Keyoxide-8877f0?style=for-the-badge)](https://keyoxide.org/3ED0663BE44765CA146AF141B9D51810CEFEEDFC)
 [![Keybase](https://img.shields.io/badge/Keybase-33a0ff?style=for-the-badge&logo=keybase&logoColor=ff6f21)](https://keybase.io/colincogle)
