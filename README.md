@@ -9,7 +9,7 @@ Living in Connecticut, working in California, and helping people all over the wo
 - Working at [Endsight](https://endsight.net).
 - Graduate of [Central Connecticut State University](https://www.ccsu.edu).
 - Occasional contributor to [*2600: The Hacker Quarterly*](https://2600.com).
-- Developer of many things, including [aprs-weather-submit](https://github.com/rhymeswithmogul/aprs-weather-submit).
+- Developer of many things, including [`aprs-weather-submit`](https://github.com/rhymeswithmogul/aprs-weather-submit). (73, W1DNS)
 - Contributor to [PowerShell Gallery](https://www.powershellgallery.com/profiles/rhymeswithmogul).
 
 ## Follow Me
