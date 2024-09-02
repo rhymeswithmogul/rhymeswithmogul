@@ -18,4 +18,5 @@ Living in Connecticut, working in California, and helping people all over the wo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colincogle)
 [![Keyoxide](https://img.shields.io/badge/Keyoxide-8877f0?style=for-the-badge)](https://keyoxide.org/3ED0663BE44765CA146AF141B9D51810CEFEEDFC)
 [![Keybase](https://img.shields.io/badge/Keybase-33a0ff?style=for-the-badge&logo=keybase&logoColor=ff6f21)](https://keybase.io/colincogle)
+[![QRZ](https://img.shields.io/badge/W1DNS-QRZ?style=for-the-badge&label=QRZ&labelColor=rgb%28102%2C153%2C204%29&color=rgb%2851%2C153%2C255%29)](https://www.qrz.com/db/w1dns)
 [![Chat](https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=fff&label=Chat)](xmpp:colin@colincogle.name)
